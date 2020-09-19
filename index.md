@@ -13,15 +13,16 @@ kdb+/q号称是世界上最快的内存数据库，它使用统一的数据库�
 # 目录
 
 # [前言](https://mp.weixin.qq.com/s/u6udu5GuT_i7QVSXXCwuRg)
+# <a href="https://mp.weixin.qq.com/s/u6udu5GuT_i7QVSXXCwuRg" target="_blank">前言</a>
 
 # 第一章  简介
-## &nbsp;;第一节  概况
-## &nbsp;;第二节  快速入门
+## &nbsp;第一节  概况
+## &nbsp;第二节  快速入门
 
 # 第二章  数据类型
-## 第一节  概述
-## 第二节  数值数据
-## 第三节  文本数据
+##     第一节  概述
+##     第二节  数值数据
+##     第三节  文本数据
 ## 第四节  二进制数据
 ## 第五节  日期与时间数据
 ## 第六节  空值与最值
