@@ -1,4 +1,3 @@
-#  [kdbcn.github.io](https://kdbcn.github.io) 
-
+![kdbcn](kdbcnpic1.png "kdb中文教程")
 
 
