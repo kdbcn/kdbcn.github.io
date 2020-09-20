@@ -9,7 +9,7 @@
 
 # 目录
 
-# <a href="https://mp.weixin.qq.com/s/u6udu5GuT_i7QVSXXCwuRg" target="_blank">前言</a>
+# 前言
 
 # 第一章  简介
 ## &nbsp;&nbsp;第一节  概况
